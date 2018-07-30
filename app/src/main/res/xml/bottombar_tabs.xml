@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home_48"
+        barColorWhenSelected="@color/colorPrimary"
+        title="Home" />
+    <tab
+        id="@+id/tab_search"
+        icon="@drawable/ic_search_48"
+        barColorWhenSelected="@color/colorPrimary"
+        title="Buscar" />
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/ic_profile_48"
+        barColorWhenSelected="@color/colorPrimary"
+        title="Perfil" />
+</tabs>
