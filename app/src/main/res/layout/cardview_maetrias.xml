@@ -12,7 +12,7 @@
 
         <ImageView
             android:id="@+id/imgv_cardMaterias"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
             android:src="@drawable/ic_launcher_background"
@@ -33,7 +33,7 @@
             android:ellipsize="end"
             android:lines="1"
             android:text="Matemáticas adasdsadsasdasdasdasdas"
-            android:textSize="20dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large.Inverse"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/btnver_cardMaterias"
             app:layout_constraintStart_toStartOf="parent" />
