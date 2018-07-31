@@ -12,8 +12,10 @@ import io.realm.RealmObject;
 import io.realm.RealmResults;
 import maufdh.dev.gradetracking.Models.MDetails;
 import maufdh.dev.gradetracking.Models.MMateria;
+import maufdh.dev.gradetracking.R;
 
 public class MyApplication extends Application {
+    public static boolean flagToDrawable= false;
     public static AtomicInteger idDetail= new AtomicInteger();
     public static AtomicInteger idMateria= new AtomicInteger();
 

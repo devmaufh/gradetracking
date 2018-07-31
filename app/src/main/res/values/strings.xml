@@ -3,4 +3,17 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="materia_name">Nombre de la materia</string>
+    <string name="profesor_name">Nombre del profesor</string>
+    <string name="Semestre">Selecciona el semestre al que pertenece la materia:</string>
+    <string name="calificaciones">Calificaciones</string>
+    <string name="parcial1">Primer parcial</string>
+    <string name="parcial2">Segundo parcial</string>
+    <string name="parcial3">Tercero parcial</string>
+    <string name="parcial4">Cuarto parcial</string>
+    <string name="parcial5">Quinto parcial</string>
+    <string name="add">Habilitar</string>
+    <string name="Select_por">Seleccione una portada</string>
+    <string name="guardar">Guardar</string>
+
 </resources>
